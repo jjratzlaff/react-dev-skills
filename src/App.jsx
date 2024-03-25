@@ -5,7 +5,6 @@ import viteLogo from '/vite.svg'
 import SkillList from './SkillList/SkillList';
 import NewSkillForm from './NewSkillForm/NewSkillForm';
 
-
 function App() {
 
   const [skills, setSkills] = useState([
